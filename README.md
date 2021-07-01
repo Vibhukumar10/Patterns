@@ -35,3 +35,8 @@
 <img src="Pattern7/Pattern7.jpg">
 </details>
 
+<details>
+<summary>Pattern 8</summary>
+<img src="Pattern8/Pattern8.jpg">
+</details>
+
