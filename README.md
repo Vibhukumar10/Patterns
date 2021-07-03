@@ -42,7 +42,7 @@
 
 <details>
 <summary>Pattern 9</summary>
-<img src="Pattern9/Pattern9.jpg">
+<img src="Pattern9/Pattern 9.jpg">
 </details>
 
 <details>
