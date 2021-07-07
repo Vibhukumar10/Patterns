@@ -55,3 +55,8 @@
 <img src="Pattern11/Pattern11.jpg">
 </details>
 
+<details>
+<summary>Pattern 12</summary>
+<img src="Pattern12/Pattern12.jpg">
+</details>
+
