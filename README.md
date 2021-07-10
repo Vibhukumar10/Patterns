@@ -95,3 +95,8 @@
 <img src="Pattern19/Pattern19.jpg">
 </details>
 
+<details>
+<summary>Pattern 20</summary>
+<img src="Pattern20/Pattern20.jpg">
+</details>
+
