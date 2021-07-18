@@ -165,4 +165,9 @@
 <img src="Pattern33/Pattern33.jpg">
 </details>
 
+<details>
+<summary>Pattern 34</summary>
+<img src="Pattern34/Pattern34.jpg">
+</details>
+
 
