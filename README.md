@@ -160,4 +160,9 @@
 <img src="Pattern32/Pattern32.jpg">
 </details>
 
+<details>
+<summary>Pattern 33</summary>
+<img src="Pattern33/Pattern33.jpg">
+</details>
+
 
