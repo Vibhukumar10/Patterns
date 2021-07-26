@@ -210,9 +210,4 @@
 <img src="Pattern42/Pattern42.jpg">
 </details>
 
-<details>
-<summary>Pattern 40</summary>
-<img src="Pattern40/Pattern40.jpg">
-</details>
-
 
