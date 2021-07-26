@@ -206,8 +206,8 @@
 </details>
 
 <details>
-<summary>Pattern 40</summary>
-<img src="Pattern40/Pattern40.jpg">
+<summary>Pattern 42</summary>
+<img src="Pattern42/Pattern42.jpg">
 </details>
 
 <details>
