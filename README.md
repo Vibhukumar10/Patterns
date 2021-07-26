@@ -200,4 +200,19 @@
 <img src="Pattern40/Pattern40.jpg">
 </details>
 
+<details>
+<summary>Pattern 41</summary>
+<img src="Pattern41/Pattern41.jpg">
+</details>
+
+<details>
+<summary>Pattern 40</summary>
+<img src="Pattern40/Pattern40.jpg">
+</details>
+
+<details>
+<summary>Pattern 40</summary>
+<img src="Pattern40/Pattern40.jpg">
+</details>
+
 
