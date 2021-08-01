@@ -210,4 +210,9 @@
 <img src="Pattern42/Pattern42.jpg">
 </details>
 
+<details>
+<summary>Pattern 43</summary>
+<img src="Pattern43/Pattern43.jpg">
+</details>
+
 
